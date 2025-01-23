@@ -1,0 +1,35 @@
+{
+  "name": "emkdir",
+  "version": "0.0.0",
+  "description": "emkdir (easy mkdir) alat sederhana yang mempermudah pembuatan direktori",
+  "exports": {
+    "require": "./dist/index.js",
+    "import": "./dist/index.js"
+  },
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "files": [
+    "./dist/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emkdir",
+    "easy mkdir",
+    "mkdir",
+    "mkdirp",
+    "simple",
+    "simple emkdir",
+    "simple easy mkdir",
+    "simple mkdir",
+    "simple mkdirp"
+  ],
+  "author": "salmantok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmantok/emkdir.git"
+  },
+  "homepage": "https://github.com/salmantok/emkdir#readme"
+}
