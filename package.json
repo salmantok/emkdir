@@ -1,6 +1,6 @@
 {
   "name": "emkdir",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "emkdir (easy mkdir) alat sederhana yang mempermudah pembuatan direktori",
   "exports": {
     "require": "./dist/cjs/index.js",
